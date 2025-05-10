@@ -1,0 +1,72 @@
+[
+  {
+    "$id": "1",
+    "user_id": "1",
+    "name": "Luxury Jet Car",
+    "description": "A high-end jet car offering a smooth and thrilling ride along the coastline.",
+    "speed_mph": 60,
+    "capacity": 2,
+    "location": "Dennery, Saint Lucia",
+    "address": "Main Dock, Dennery, Saint Lucia",
+    "features": "Bluetooth Speakers, GPS, Waterproof Storage, Safety Gear",
+    "availability": "9 AM - 3 PM",
+    "price_per_hour": 200,
+    "image": "jetcar-1.jpg"
+  },
+  {
+    "$id": "2",
+    "user_id": "1",
+    "name": "Sport Jet Car",
+    "description": "A sleek and fast jet car built for adrenaline-packed excursions.",
+    "speed_mph": 75,
+    "capacity": 2,
+    "location": "Dennery, Saint Lucia",
+    "address": "Main Dock, Dennery, Saint Lucia",
+    "features": "High-Speed Engine, Safety Harness, Waterproof Storage",
+    "availability": "9 AM - 3 PM",
+    "price_per_hour": 250,
+    "image": "jetcar-2.jpg"
+  },
+  {
+    "$id": "3",
+    "user_id": "1",
+    "name": "Explorer Jet Car",
+    "description": "Designed for scenic rides, perfect for exploring Saint Lucia’s coastline.",
+    "speed_mph": 50,
+    "capacity": 3,
+    "location": "Dennery, Saint Lucia",
+    "address": "Main Dock, Dennery, Saint Lucia",
+    "features": "Extended Fuel Range, GPS, Safety Gear",
+    "availability": "9 AM - 3 PM",
+    "price_per_hour": 180,
+    "image": "jetcar-3.jpg"
+  },
+  {
+    "$id": "4",
+    "user_id": "2",
+    "name": "Family Jet Car",
+    "description": "A spacious jet car suitable for family outings and group adventures.",
+    "speed_mph": 45,
+    "capacity": 4,
+    "location": "Dennery, Saint Lucia",
+    "address": "Main Dock, Dennery, Saint Lucia",
+    "features": "Extra Seating, Safety Rails, Bluetooth Speakers",
+    "availability": "9 AM - 3 PM",
+    "price_per_hour": 220,
+    "image": "jetcar-4.jpg"
+  },
+  {
+    "$id": "5",
+    "user_id": "2",
+    "name": "Private Jet Car",
+    "description": "A jet car designed for exclusive, private experiences on the water.",
+    "speed_mph": 65,
+    "capacity": 2,
+    "location": "Dennery, Saint Lucia",
+    "address": "Main Dock, Dennery, Saint Lucia",
+    "features": "Custom Sound System, GPS, Premium Upholstery",
+    "availability": "9 AM - 3 PM",
+    "price_per_hour": 300,
+    "image": "jetcar-5.jpg"
+  }
+]
